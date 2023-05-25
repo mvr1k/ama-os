@@ -111,4 +111,10 @@ void kernel_main(void)
  
 	/* Newline support is left as an exercise. */
 	terminal_writestring("Hello, kernel World!\n");
+
+	//todo: write code for getting user input from terminal will be running in a thread to deal with user commands
+	
+	//todo: we will start adding one one modules here
+
+	//1. create the module and use this module 
 }
